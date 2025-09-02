@@ -13,7 +13,7 @@ h1 {
     margin-bottom: 10px;
 }
 h2{
-    margin-left:39% ;
+    text-align: center;
     color: #6a4c93; 
     margin-bottom: 10px;
 }
@@ -67,4 +67,5 @@ a:hover {
 a i, a img {
     width: 20px;
     height: 20px;
+
 }
